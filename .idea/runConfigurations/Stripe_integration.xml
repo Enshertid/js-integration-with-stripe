@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Stripe-integration" type="ReactNative" factoryName="React Native">
+    <node-interpreter value="project" />
+    <react-native value="" />
+    <platform value="ANDROID" />
+    <envs />
+    <only-packager />
+    <build-and-launch value="false" />
+    <debug-port value="8888" />
+    <method v="2">
+      <option name="ReactNativePackager" enabled="true" />
+    </method>
+  </configuration>
+</component>
